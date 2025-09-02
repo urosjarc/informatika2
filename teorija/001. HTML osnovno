@@ -1,0 +1,77 @@
+* Predstavi začetek html-ja in interneta
+* Predstavi html editor (kako delati v njem)
+* Napiši Hello World v HTML-ju in predstavi bližnice za html ustvarjanje
+* Pokaži kako odpreš HTML datoteko v browserju (live preview)
+* Razloži kako se HTML obravnava v browserju.
+* Razloži HTML tagse...
+    * Sistemski:
+        * <!DOCTYPE>  	    Defines the document type
+        * <html> 	        Defines an HTML document
+        * <head> 	        Contains metadata/information for the document
+        * <title> 	        Defines a title for the document
+        * <body> 	        Defines the document's body
+        * <!--...--> 	    Defines a comment
+    * Tekstovni:
+        * <h1> ... <h6> 	Defines HTML headings
+        * <p> 	            Defines a paragraph
+        * <br> 	            Inserts a single line break
+        * <hr> 	            Defines a thematic change in the content
+        * <b> 	            Defines bold text
+        * <i> 	            Defines a part of text in an alternate voice or mood
+        * <u>               Defines underline
+        * <pre>             Preformated text
+    * Listni:
+        * <menu> 	        Defines an alternative unordered list
+        * <ul> 	            Defines an unordered list
+        * <ol> 	            Defines an ordered list
+        * <li> 	            Defines a list item
+    * Tabelni:
+        * <table> 	        Defines a table
+        * <caption> 	    Defines a table caption
+        * <th> 	            Defines a header cell in a table
+        * <tr> 	            Defines a row in a table
+        * <td> 	            Defines a cell in a table
+        * <thead> 	        Groups the header content in a table
+        * <tbody> 	        Groups the body content in a table
+        * <tfoot> 	        Groups the footer content in a table
+    * Slikovni:
+        * <img> 	        Defines an image
+        * <map> 	        Defines a client-side image map
+        * <area> 	        Defines an area inside an image map
+        * <canvas> 	        Used to draw graphics, on the fly, via scripting (usually JavaScript)
+        * <figcaption> 	    Defines a caption for a <figure> element
+        * <figure> 	        Specifies self-contained content
+        * <picture> 	    Defines a container for multiple image resources
+        * <svg> 	        Defines a container for SVG graphics
+    * Audio/Video:
+        * <audio> 	        Defines sound content
+        * <source> 	        Defines multiple media resources for media elements (<video>, <audio> and <picture>)
+        * <track> 	        Defines text tracks for media elements (<video> and <audio>)
+        * <video> 	        Defines a video or movie
+    * Uporabniški:
+        * <details> 	    Defines additional details that the user can view or hide
+        * <summary> 	    Defines a visible heading for a <details> element
+        * <form>         	Defines an HTML form for user input
+        * <input>        	Defines an input control
+        * <textarea>        Defines a multiline input control (text area)
+        * <button>       	Defines a clickable button
+        * <select>       	Defines a drop-down list
+        * <optgroup>        Defines a group of related options in a drop-down list
+        * <option>       	Defines an option in a drop-down list
+        * <label>        	Defines a label for an <input> element
+        * <fieldset>        Groups related elements in a form
+        * <legend>       	Defines a caption for a <fieldset> element
+        * <datalist>        Specifies a list of pre-defined options for input controls
+        * <output>       	Defines the result of a calculation
+    * Linki:
+        * <a> 	            Defines a hyperlink
+        * <link> 	        Defines the relationship between a document and an external resource (most used to link to style sheets)
+        * <nav> 	        Defines navigation links
+    * Spletni:
+        * <iframe> 	        Defines an inline frame
+    * Programerski:
+        * <style> 	        Defines style information for a document
+        * <div> 	        Defines a section in a document
+        * <script> 	        Defines a client-side script
+
+* Prikaži orodja za razvijalce v browserju in na hitro razloži vse kar se notri nahaja.
